@@ -42,7 +42,7 @@ $$n\in Pr\Leftrightarrow \forall x, (x+a)^n=x^n+a\;(mod\;n)$$
 
 template: 1.2
 
-- \\(n \in Pr\\) : $$((x+a)^n=x^n+a^n+\sum_{i=1}^{n-1}{{n \choose i}x^ia^{n-i}}$$
+- \\(n \in Pr\\) : $$((x+a)^n=x^n+a^n+\sum_{i=1}^{n-1}{n \choose i}x^ia^{n-i}$$
 
 $${n \choose i}=\frac{n!}{i!(n-i)!}\Rightarrow n\mid {n \choose i}$$
 
